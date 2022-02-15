@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @D3Isaac
-- 👀 I’m interested in Game Dev, AI, OS, etc...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Isaac Pires Massena
+- I’m interested in Game Dev
+- I’m currently learning C++
+- How to reach me: 
+  Instagram: @isaacpires_massena
 
 <!---
 D3Isaac/D3Isaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
