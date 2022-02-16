@@ -1,6 +1,5 @@
 - Hi, I’m Isaac Pires Massena
-- I'm working on my Graduation on Game Dev
-- I’m currently learning C++
+- I've studying my graduation course in Digital Games
 - How to reach me: devisaacpires@gmail.com
 
 <!---
